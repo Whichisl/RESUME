@@ -1,0 +1,208 @@
+
+*{
+    padding: 0;
+    margin: 0;
+}
+
+nav{
+    width: 17rem;
+    background-color: #bd5d38;
+    display: flex;
+    flex-direction: column;
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    
+}
+
+img{
+    border-radius: 50%;
+    margin-top: 10rem;
+    margin-left: 3.5rem;
+    /* margin-bottom: 2rem; */
+    border: 10px solid #ca7d60;
+     
+}
+
+a{
+    padding-top: 1rem;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    text-decoration: none;
+    color: #e1b6a5;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: normal;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+section{
+    height: 100vh;
+}
+
+#about{
+    margin-left: 20rem;
+    margin-top: 10rem;
+}
+
+
+.uph1 {
+    color: #343a40;
+    font-family: "Saira Extra Condensed", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+  font-size: 87px;
+}
+
+.surname{
+    color: #bd5d38;
+    font: size 10rem;;
+    font-family: "Saira Extra Condensed", sans-serif;
+   font-weight: 600;
+   font-style: normal;
+   font-size: 87px;
+}
+
+.subhead{
+    color: #6c757d;
+    font-size: 24px;
+    font-family: "Saira Extra Condensed", sans-serif;
+    text-transform:uppercase;
+}
+
+.mail{
+    color: #bd5d38;
+    font-size: 24px;
+    font-family: "Saira Extra Condensed", sans-serif;
+    transition: 1s;
+}
+.mail:hover{
+    color:rgb(75, 142, 163);
+}
+
+.para{
+    color: #6c757d;
+    font-size: 18.4px;
+   margin-top: 2rem;
+}
+
+.icons{
+    color: #495057;
+    font-size: 3.5rem;
+    transition: 1s;
+}
+
+i:hover{
+    color: #bd5d38;
+}
+
+section{
+    margin-left: 20rem;
+    margin-top: 3rem;
+}
+
+h2{
+    color: #495057;
+    font-size: 51px;
+    margin: 0 0 48px;
+}
+
+.head h2{
+    color: #343a40;
+    font-size: 56px;
+    font-family: "Saira Extra Condensed", sans-serif;
+   font-weight: 700;
+}
+
+.head3{
+    color: #343a40;
+    font-family: "Saira Extra Condensed", sans-serif;
+   font-weight: 700;
+   font-size: 32px;
+   
+}
+
+.subheading{
+    color: #bd5d38;
+    font-size: 16px;
+    margin-right: 3rem;
+}
+
+.lower h4{
+    color:#6c757d;
+    font-family: "Saira Extra Condensed", sans-serif;
+   font-weight: 600;
+   font-size: 24px;
+   margin-top:-2.8rem;
+}
+
+.lower p{
+    margin-right: 15rem;
+    font-size: 16px;
+    color: #6c757d;
+    margin-bottom: 2.5rem;
+}
+
+
+.head1{
+    margin-top: 18rem;
+    margin-left: 20rem;
+    height: 80vh;
+}
+.head1 h2{
+    color: #343a40;
+    font-size: 56px;
+    font-family: "Saira Extra Condensed", sans-serif;
+   font-weight: 700;
+}
+
+.def{
+    margin-top: 18rem;
+    margin-left: 20rem;
+    height: 100vh;
+}
+
+.def h2{
+    color: #343a40;
+    font-family: "Saira Extra Condensed", sans-serif;
+    font-weight: 600;
+    margin-bottom: 5rem;
+    
+}
+
+.skl h4{
+    color: #6c757d;
+    font-size: 24px;
+    font-family: "Saira Extra Condensed", sans-serif;
+    font-weight: 500;
+    margin: 2rem 0;
+}
+
+.skl p{
+    color: #6c757d;
+    font-size: 16px;
+    font-weight: 500;
+    margin-left: 1rem;
+}
+
+.hij{
+    margin-top: 18rem;
+    margin-left: 20rem;
+    height: 80vh;
+}
+
+.hij h2{
+    color: #343a40;
+    font-family: "Saira Extra Condensed", sans-serif;
+    font-weight: 700;
+    margin-bottom: 5rem;
+}
+
+.hij p{
+    color:#6c757d;
+    font-size: 16px;
+    margin-right: 5rem;
+    
+}
